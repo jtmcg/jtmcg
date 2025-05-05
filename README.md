@@ -1,7 +1,7 @@
 # Tyler McGoffin (@jtmcg)
 
 ### About me 🕵️
-I am a Software Engineer, located in San Francisco, currently working on the CLI team for GitHub 
+I am a Software Engineer, located in San Francisco, currently working on Copilot Applied Science at GitHub 
 
 <details>
   <summary>What are some honest, unfiltered things about you?</summary>
